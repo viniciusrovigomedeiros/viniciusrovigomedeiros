@@ -1,4 +1,4 @@
-Olá, eu me chamo vinícius Rovigo Medeiros
+Olá, eu me chamo Vinícius Rovigo Medeiros
 
 🔭 Desenvolvedor Flutter.
 
