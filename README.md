@@ -1,6 +1,5 @@
 Olá, eu me chamo Vinícius Rovigo Medeiros
 
-🔭 Desenvolvedor Flutter.
+🔭 Desenvolvedor Flutter / Node JS.
 
 
-📖 Estudo com frenquencia a linguagem Dart e o framework Flutter 2.11.0.
