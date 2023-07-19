@@ -1,6 +1,6 @@
 Olá, eu me chamo Vinícius Rovigo Medeiros
 
-🔭 Desenvolvedor Flutter / Node JS.
+🔭 Desenvolvedor Flutter
 
 <!--**Projeto Desenvolvido com Clean Arquiteture, princípios de SOLID, CI/CD, Gerenciamento de estados, consumo de API, testes e internacionalização**-->
 
